@@ -21,6 +21,9 @@ function App() {
       >
         Sign Out
       </button>
+      <button style={{ cursor: 'pointer' }}>
+        I should always be clickable and do nothing!
+      </button>
     </div>
   )
 }
